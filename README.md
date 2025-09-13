@@ -81,17 +81,28 @@
 
 ### 42 – Projects
 
-- **MiniRT (C/C++)** – Ray tracing renderer with BVH + multithreading (~3× faster).  
-  [🔗 Repo](https://github.com/Wassaaa/minirt)
-
-- **FT IRC (C++)** – RFC-compliant IRC server; 100+ concurrent clients; non-blocking sockets.  
-  [🔗 Repo](https://github.com/Wassaaa) <!-- replace with direct repo when public -->
-
-- **so_long (C)** – 2D game; sprites, collision, map parsing.  
-  [🔗 Repo](https://github.com/Wassaaa) <!-- replace with direct repo when public -->
-
-- **ft_transcendence (TypeScript/Node)** – Real-time Pong (auth, chat, WebSockets, Docker, PostgreSQL).  
-  [🔗 Repo](https://github.com/Wassaaa/ft_transcendence)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/libftm.png"></code>](https://github.com/Wassaaa/libft)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/get_next_linem.png"></code>](https://github.com/Wassaaa/ft_get_next_line)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/ft_printfm.png"></code>](https://github.com/Wassaaa/ft_printf)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/so_longm.png"></code>](https://github.com/Wassaaa/so_long)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/push_swapm.png"></code>](https://github.com/Wassaaa/push_swap)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/minitalkm.png"></code>](https://github.com/Wassaaa/minitalk)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/minishellm.png"></code>](https://github.com/Wassaaa/minishell)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/philosophersm.png"></code>](https://github.com/Wassaaa/philosophers)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/minirtm.png"></code>](https://github.com/Wassaaa/minirt)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/ft_ircm.png"></code>](https://github.com/Wassaaa/ft_irc)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP00.png"></code>](https://github.com/Wassaaa/cpp00)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP01.png"></code>](https://github.com/Wassaaa/cpp01)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP02.png"></code>](https://github.com/Wassaaa/cpp02)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP03.png"></code>](https://github.com/Wassaaa/cpp03)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP04.png"></code>](https://github.com/Wassaaa/cpp04)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP05.png"></code>](https://github.com/Wassaaa/cpp05)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP06.png"></code>](https://github.com/Wassaaa/cpp06)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP07.png"></code>](https://github.com/Wassaaa/cpp07)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP08.png"></code>](https://github.com/Wassaaa/cpp08)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/numbered_cpps/CPP09.png"></code>](https://github.com/Wassaaa/cpp09)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/inceptionm.png"></code>](https://github.com/Wassaaa/inception)
+[<code><img width="120" style="border-radius: 10px;" src="./badges/ft_transcendencem.png"></code>](https://github.com/Wassaaa/ft_transcendence)
 
 ---
 
@@ -105,11 +116,11 @@
 
 ### Want to learn next
 
-- Deeper **.NET/C#** for desktop + services  
-- **MapLibre GL JS** for maps/visualization  
+- Deeper **.NET/C#** for desktop + services    
 - **gRPC / Kafka / RabbitMQ** patterns  
 - **Signal processing basics** (FFT, spectrograms)  
 - **Rust** for systems programming
+- **Godot** for making some games
 
 ---
 
